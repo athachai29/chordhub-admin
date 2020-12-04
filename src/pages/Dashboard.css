@@ -1,0 +1,10 @@
+.dashboard {
+    text-align: center;
+}
+
+.info {
+    display: inline-block;
+    border: 4px solid  #154da2;
+    margin: 10px;
+    font-size: 128px;
+}
